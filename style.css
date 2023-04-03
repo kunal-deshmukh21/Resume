@@ -1,0 +1,173 @@
+ .full {
+   background-color: #E6E6E6;
+ }
+
+ .container {
+   display: block;
+   background-color: rgb(47, 58, 77);
+   margin-top: -38px;
+   margin-left: 250px;
+   margin-right: 250px;
+   padding-bottom: 20px;
+ }
+
+ .name {
+   color: white;
+   font-family: system-ui, system-ui, sans-serif;
+   font-weight: 450;
+   font-size: 260%;
+   margin: 10px;
+   padding-top: 25px;
+   text-decoration: none;
+ }
+
+ .names {
+   font-family: system-ui, system-ui, sans-serif;
+   font-weight: 300;
+   font-size: 140%;
+   margin-top: -35px;
+   margin-left: 6px;
+   padding: -2px;
+   color: white;
+ }
+
+ .Secondpara {
+   margin-top: -20px;
+   margin-left: 250px;
+   margin-right: 250px;
+   display: flex;
+   background-color: rgb(32, 41, 51);
+
+ }
+
+ .Secondpara a {
+   text-decoration: none;
+   color: inherit;
+ }
+
+ h4 {
+   margin-left: 90px;
+   color: white;
+   font-family: system-ui, system-ui, sans-serif;
+   font-weight: 150;
+   font-size: 100%;
+ }
+
+ h5 {
+   color: rgb(67, 146, 153);
+   margin-top: -7%;
+ }
+
+ .secondb {
+   margin-top: 2%;
+ }
+
+ .section {
+   display: flex;
+   margin-top: -20px;
+   margin-left: 250px;
+   margin-right: 250px;
+   background-color: white;
+ }
+
+ .sectiona {
+   margin-top: 2%;
+   margin-left: 13px;
+
+ }
+
+ h1 {
+   text-decoration: underline;
+ }
+
+ .sectionb {
+   margin-top: 3%;
+   margin-left: 150px;
+   font-size: 95%;
+ }
+
+ .sectionaa {
+   font-size: 95%;
+   color: rgb(67, 146, 153);
+   font-family: 'Roboto', sans-serif;
+
+ }
+
+ .sectionaaa3 {
+   font-size: 81.25%;
+   font-weight: 100;
+   text-decoration: none;
+   color: black;
+   margin-top: 0%;
+ }
+
+ .sectionaaa1 {
+   font-size: 81.25%;
+   font-weight: 100;
+   text-decoration: none;
+   color: black;
+   margin-top: -7%;
+ }
+
+ .sectionaaa2 {
+   font-size: 81.25%;
+   font-weight: 100;
+   text-decoration: none;
+   color: black;
+   margin-top: 0%;
+ }
+
+ .sectionaab {
+   font-family: 'Quicksand', sans-serif;
+   font-size: 90%;
+   font-weight: lighter;
+   color: black;
+   margin-top: -7%;
+ }
+
+ .sectionbb {
+   font-size: 95%;
+   color: rgb(67, 146, 153);
+   font-family: 'Roboto', sans-serif;
+   display: flex;
+ }
+
+ .sectionbbb a {
+   text-decoration: none;
+   color: inherit;
+ }
+
+ .sectionbbc a {
+   text-decoration: none;
+   color: inherit;
+ }
+
+ .sectionaab1 {
+   width: 150px;
+   height: 50px;
+   margin-top: 2%;
+   border: 0.2px solid black;
+   color: black;
+ }
+
+ .sectionbb2 {
+   margin-left: 5%;
+ }
+
+ .sectionbba {
+
+   width: 200px;
+   height: 50px;
+   margin-top: 5%;
+   border: 0.2px solid black;
+   border-radius: 10px;
+   text-align: center;
+   color: black;
+   background-color: #E6E6E6;
+ }
+
+ .sectionofb {
+   display: flex;
+
+ }
+
